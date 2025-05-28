@@ -1,12 +1,14 @@
-## JHGambling 🎰
+# JHGambling 🎰
 
-### Games
+## Games (Ideas)
 
+### Gambling
 - Slot
 - Blackjack
 - Poker
 - Roulette
-- Russisch Roulette
+- Russian Roulette
 
-- Boxautomat
+### Fun Games
+- Boxing Machine
 - Billiard

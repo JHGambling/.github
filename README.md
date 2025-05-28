@@ -1,3 +1,0 @@
-# JHGambling
-
-Bestes Casino
