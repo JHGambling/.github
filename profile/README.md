@@ -2,10 +2,10 @@
 
 ## Games (Ideas)
 
-Gambling | Fun Games
----|---
-Slot|Boxing Machine
-Blackjack|Billiard
-Poker| 
-Roulette| 
-Russian Roulette|
+Gambling | Fun Games | Skill Based
+---|---|---
+🚧 Slot|Boxing Machine|
+Blackjack|Billiard|
+Poker| |
+Roulette| |
+Russian Roulette| |
