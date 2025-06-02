@@ -2,13 +2,9 @@
 
 ## Games (Ideas)
 
-### Gambling
-- Slot
-- Blackjack
-- Poker
-- Roulette
-- Russian Roulette
-
-### Fun Games
-- Boxing Machine
-- Billiard
+Gambling | Fun Games
+Slot | Boxing Machine
+Blackjack | Billiard
+Poker | 
+Roulette | 
+Russian Roulette |
