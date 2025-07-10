@@ -6,7 +6,7 @@ Gambling | Fun Games
 ---|---
 ✅ Slot|Boxing Machine
 ✅ Blackjack|Billiard
-Poker|
-🚧 Roulette|
+🚧 Poker|Bowling
+🚧 Roulette|Schere Stein Papier
 🚧 CatchFishy|
-Russian Roulette|
+🚧 Russian Roulette|
